@@ -1,0 +1,16 @@
+h1{text-align: center
+    ;
+background-color: brown;}
+.colonne{display: flex;
+    gap: 30px;
+padding: 0px;
+margin: 20px;
+text-align: justify;
+font-size: large;}
+
+.colonne div{
+    background-color: rgb(70, 119, 184);
+}
+image{
+    width: 30% ; 
+}
